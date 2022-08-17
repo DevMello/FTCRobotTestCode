@@ -1,0 +1,14 @@
+{
+  "motorMappings" : {
+    "motorFrontLeft": "leftFront",
+    "motorBackLeft" : "leftRear",
+    "motorFrontRight" : "rightFront",
+    "motorBackRight" : "rightRear"
+  },
+  "sensorMappings" : {
+    "front_distance" : "",
+    "back_distance" : "",
+    "right_distance" : "",
+    "left_distance" : ""
+  }
+}
